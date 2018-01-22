@@ -25,3 +25,4 @@ https://www.vtk.org/Wiki/VTK_Datasets
 git clone git://vtk.org/VTKLargeData.git VTKLargeData
 ```
 
+See also https://github.com/csukuangfj/VTKData
